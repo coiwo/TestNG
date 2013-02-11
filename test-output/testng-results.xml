@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67106" started-at="2013-02-11T20:00:30Z" finished-at="2013-02-11T20:01:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67106" started-at="2013-02-11T20:00:30Z" finished-at="2013-02-11T20:01:37Z">
+      <class name="script.dataProviderExample">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:script.dataProviderExample@1232784a]" name="setUp" is-config="true" duration-ms="26390" started-at="2013-02-11T15:00:30Z" finished-at="2013-02-11T15:00:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testDataProviderExample(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:script.dataProviderExample@1232784a]" name="testDataProviderExample" duration-ms="13883" started-at="2013-02-11T15:00:56Z" data-provider="DP1" finished-at="2013-02-11T15:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[The Silence of the Lambs]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jonathan Demme]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dr. Hannibal Lecter. Brilliant. Cunning. Psychotic. In his mind lies the clue to a ruthless killer. - Clarice Starling, FBI. Brilliant. Vulnerable. Alone. She must trust him to stop the killer.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Anthony Hopkins]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProviderExample -->
+        <test-method status="PASS" signature="testDataProviderExample(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:script.dataProviderExample@1232784a]" name="testDataProviderExample" duration-ms="7483" started-at="2013-02-11T15:01:10Z" data-provider="DP1" finished-at="2013-02-11T15:01:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[The Birds]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Alfred Hitchcock]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A wealthy San Francisco playgirl pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people there in increasing numbers and with increasing viciousness]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Rod Taylor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProviderExample -->
+        <test-method status="PASS" signature="testDataProviderExample(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:script.dataProviderExample@1232784a]" name="testDataProviderExample" duration-ms="7431" started-at="2013-02-11T15:01:18Z" data-provider="DP1" finished-at="2013-02-11T15:01:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hannibal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ridley Scott]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hannibal returns to America and attempts to make contact with disgraced Agent Starling and survive a vengeful victim's plan.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Anthony Hopkins]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProviderExample -->
+        <test-method status="PASS" signature="testDataProviderExample(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:script.dataProviderExample@1232784a]" name="testDataProviderExample" duration-ms="6135" started-at="2013-02-11T15:01:25Z" data-provider="DP1" finished-at="2013-02-11T15:01:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[The Bourne Ultimatum]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Paul Greengrass]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bourne dodges new, superior assassins as he searches for his unknown past while a government agent tries to track him down.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Matt Damon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProviderExample -->
+        <test-method status="PASS" signature="testDataProviderExample(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:script.dataProviderExample@1232784a]" name="testDataProviderExample" duration-ms="5457" started-at="2013-02-11T15:01:31Z" data-provider="DP1" finished-at="2013-02-11T15:01:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Point Break]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kathryn Bigelow]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[An FBI agent goes undercover to catch a gang of bank robbers who may be surfers.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Patrick Swayze]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataProviderExample -->
+      </class> <!-- script.dataProviderExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
